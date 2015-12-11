@@ -1,0 +1,25 @@
+{
+  "name": "@anrry/wordutils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anrry06/wordutils.git"
+  },
+  "author": "anrry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anrry06/wordutils/issues"
+  },
+  "homepage": "https://github.com/anrry06/wordutils#readme",
+  "dependencies": {
+    "@anrry/clusterprocess": "^1.0.0",
+    "@anrry/phonex": "^1.0.0",
+    "mongodb": "^2.1.0",
+    "natural": "^0.2.1"
+  }
+}
