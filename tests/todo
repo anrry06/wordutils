@@ -1,0 +1,53 @@
+    [m] m : marché
+    [v] v : vouloir, w : wagon
+    [f] f : forme, ph : phare
+    [b] b : ballon, bh : Bhoutan
+    [p] p : parler
+    [d] d : dame, dh : dharma
+    [t] t : tomber, th : thé
+    [n] n : nuage
+    [g] g : garder, gh : ghetto, gu : guerre
+    [k] c : colis, ch : chrétien, k : képi, kh : khmer, q : Qatar, qu : quatre
+    [ʒ] g : girafe, ge : geai, j : jardin
+    [ʃ] ch : champion, sch : schéma, sh : shoot
+    [z] z : zèbre
+    [s] c : celui, ç : ça, s : sel, sc : sceau
+    [ʁ] r : repas, rh : rhéostat, rr : rromani
+    [l] l : langue
+    [j] hi : hiatus, i : iambe, y : yaourt
+[w] ho : hoirie, hou : houaiche, houa, houais, o : oindre, ou : oui, ouate, w : watt
+[ɥ] hu : huit, u : nuit, duel[i]
+    [i] hi : hideux, hy : hydrogène, i : idée, î : île, y : ypérite
+    [e] æ : æpyornis, e : effacer, é : étudier, hé : hélas, œ : œcuménique
+    [ɛ] ai : aimable, aî : aîné, e : elle, ê : être, hai : haine, he : hermine, hê : hêtre
+    [µ] ain : ainsi, hin : hindouisme, im : imberbe, in : interne, hum : humble, un : Untel
+    [œ] heu : heurter, œ : œillet, œu : œuvre
+    [ə] e : le, eu : euphorie, heu : heureux
+    [y] hu : huer, u : utiliser, eu : eusse
+    [u] aoû : août, hou : houblon, ou : ouvrir
+    [o] au : automate, hau : hauban, haut : haut-fond, hauts : hauts-fonds, ho : horrible, home, hô : hôtel, hôte, oh : ohm, o : ozone, o : ordre, ho : homme
+    [ɔ] hon : honte, om : ombre, on : ongle
+    [ɑ] am : ambulance, an : antilope, em : embrasser, en : entier, ham : hamburger, han : hanter
+    [a] a : attirer, ha : hache, hâ : hâter, â : âge
+
+consonnes = [bcdfghjklmnpqrstvwxz]
+voyelles = [aeiouy]
+
+
+
+Déclaration
+déclarer, dire, raconter, affirmer, annoncer, assurer, garantir, répondre
+
+certitude
+penser, croire, juger, trouver, savoir, être d’avis, supposer, être sûr, être certain, être persuadé, être convaincu, remarquer, constater, estimer, espérer, comprendre, se douter, se rendre compte, avoir l’impression
+il est probable, il me semble, il me paraît, il est indubitable, il est clair, il est certain, il est vrai, il est évident, il est incontestable
+
+doute
+douter, nier, contester, il est douteux, il est possible, il est contestable, il est discutable
+
+
+http://dumps.wikimedia.org/frwiki/latest/
+
+https://fr.wikipedia.org/wiki/Sp%C3%A9cial:ApiSandbox#action=query&list=allcategories&format=json&acfrom=architecture&acdir=ascending&aclimit=1000
+
+https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial%3AArbreCat%C3%A9gorie&target=Arbre&mode=all&namespaces=
