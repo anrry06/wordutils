@@ -2,6 +2,8 @@
 
 Utilities for word manipulation and sentence analysis
 
+[![NPM](https://nodei.co/npm/wordutils.png)](https://nodei.co/npm/wordutils/)
+
 ```javascript
 var wordutils = {
     phonex: require("phonex"),
