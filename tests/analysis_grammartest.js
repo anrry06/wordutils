@@ -10,6 +10,7 @@ var config = {
 var errors = {};
 var grammar = require('./../lib/grammar.js');
 var dicodb = require('./../lib/dicodb.js');
+
 dicodb.config = config;
 dicodb.setDb(dicodb.config, function() {
 

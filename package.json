@@ -1,7 +1,7 @@
 {
-  "name": "@anrry/wordutils",
-  "version": "1.0.1",
-  "description": "utilities for word manipulation and sentence analysis",
+  "name": "wordutils",
+  "version": "1.0.0",
+  "description": "Utilities for word manipulation and sentence analysis",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/anrry06/wordutils#readme",
   "dependencies": {
-    "@anrry/clusterprocess": "^1.0.0",
-    "@anrry/phonex": "^1.0.0",
+    "clusterprocess": "^1.0.1",
+    "phonex": "^1.0.1",
     "mongodb": "^2.1.0",
     "natural": "^0.2.1"
   }
